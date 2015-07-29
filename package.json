@@ -1,0 +1,32 @@
+{
+  "name": "fortuneToday",
+  "version": "0.0.1",
+  "description": "FortuneToday is Korean fortune today module result by daum.net search",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imazine/fortuneToday.git"
+  },
+  "keywords": [
+    "Korean",
+    "today",
+    "fortune",
+    "result",
+    "image",
+    "generator",
+    "Daum.net"
+  ],
+  "author": "iMaZiNe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imazine/fortuneToday/issues"
+  },
+  "dependencies": {
+    "casperjs": "^1.1.0-beta3",
+    "coffee-script": "^1.9.1",
+    "q": "^1.2.0"
+  }
+}
